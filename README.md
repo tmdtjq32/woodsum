@@ -1,16 +1,3 @@
-# api-server-node-js
-
-외주용 템플릿 Node JS
-
-
-## 히스토리
-
-**2020.02.07 다프네**
-
-* 폴더 구조 추가
-* 도메인 별로 나눠서 Service / Provider / Controller로 구조 변경
-* FCM 예제 추가
-
 # Folder Structure
 
 ```
